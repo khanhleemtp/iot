@@ -1,4 +1,4 @@
 # iot
-- add .env
-+ MONGO_URI=mongodb+srv://khanhk62hust:1@cluster0.xptvo.mongodb.net/iot?retryWrites=true&w=majority
-+ PORT=9000
+- add .env in folder server: 
+  + MONGO_URI=mongodb+srv://khanhk62hust:1@cluster0.xptvo.mongodb.net/iot?retryWrites=true&w=majority
+  + PORT=9000
